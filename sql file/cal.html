@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Calculator</title>
+    <script src="calculator.js"></script>
+  </head>
+  <body>
+    <h1>Calculator</h1>
+    <form>
+      <input type="text" id="num1" placeholder="Enter the first number">
+      <input type="text" id="num2" placeholder="Enter the second number">
+      <br><br>
+      <label for="operation">Choose an operation:</label>
+      <select id="operation">
+        <option value="+">Addition (+)</option>
+        <option value="-">Subtraction (-)</option>
+        <option value="*">Multiplication (*)</option>
+        <option value="/">Division (/)</option>
+        <option value="%">Modulus (%)</option>
+      </select>
+      <br><br>
+      <button type="button" onclick="calculate()">Calculate</button>
+    </form>
+    <p id="result"></p>
+  </body>
+</html>
