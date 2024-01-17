@@ -15,3 +15,9 @@ Software Required:
  Local Host : XAMPP
  http://localhost/smartcity/
 ![Screenshot 2024-01-17 225320](https://github.com/vinayrenuke/Smart-City-Project1/assets/156569065/f94129fb-20c1-4884-a60b-aa32f1c8b8f4)
+
+![Screenshot 2024-01-17 225345](https://github.com/vinayrenuke/Smart-City-Project1/assets/156569065/7dd223d0-3efd-49c3-9f87-243604c5c77a)
+
+![Screenshot 2024-01-17 225412](https://github.com/vinayrenuke/Smart-City-Project1/assets/156569065/7054d40a-4125-423d-8584-faf3ef06c7a4)
+
+![Screenshot 2024-01-17 225437](https://github.com/vinayrenuke/Smart-City-Project1/assets/156569065/19f0fdd0-af6d-443e-91a7-f6a0f35f85d0)
